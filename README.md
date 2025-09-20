@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Hi, I'm Felicity Andrea 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=350&color=1E90FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Tester+%F0%9F%A7%AA;Exploring+Frontend+Development+%F0%9F%8E%A8;Learning+to+test%2C+code%2C+and+create+voxel+worlds+%F0%9F%8C%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=350&color=1E90FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Tester+%F0%9F%A7%AA;Exploring+Frontend+Development+%F0%9F%8E%A8;Learning+to+test%2C+code%2C+and+create+voxel+worlds+%F0%9F%8C%9C" alt="Typing SVG" />
 </p>
 <p align="center">
 🎓 CS Graduate | Aspiring Software Tester 🧪 | Exploring Frontend Development 🎨
@@ -37,7 +37,11 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAFernandez247&theme=vue-dark&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAFernandez247&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=141321,1E3A8A,93C5FD" 
+  height="150" 
+  alt="Top Languages" 
+/>
 
 </div>
 
