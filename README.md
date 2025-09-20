@@ -44,16 +44,16 @@
 ## 🛠️ Tech Stack  
 
 **Testing**  
-Playwright
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
 
 **Languages**  
-![JavaScript](https://skillicons.dev/icons?i=js)  ![Python](https://skillicons.dev/icons?i=python)  ![SQL](https://skillicons.dev/icons?i=mysql)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 **Frontend**  
-![HTML](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 **Other Tools**  
-![Git](https://skillicons.dev/icons?i=git)  ![GitHub](https://skillicons.dev/icons?i=github)  ![Blender](https://skillicons.dev/icons?i=blender)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
 
 
 ## 📬 Let’s Connect!
