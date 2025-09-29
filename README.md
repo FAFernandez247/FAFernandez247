@@ -30,7 +30,7 @@
 - 🧪 [SwagLabs Playwright Automation](https://github.com/FAFernandez247/playwright-saucedemo-tests.git)  
    *Framework with POM, fixtures, faker.js, screenshots, storage state.*  
 
-- 🔧 [QA Training Project – Pre-release Web App](https://github.com/FAFernandez247/Fernadez-tripinas.git)  
+- 🔧 [Software Testing Training Project – Pre-release Web App](https://github.com/FAFernandez247/Fernadez-tripinas.git)  
    *Playwright automation for a pre-release web app.*
 
 ## 📊 GitHub Stats
